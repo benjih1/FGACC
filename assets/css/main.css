@@ -3138,7 +3138,7 @@
 			position: absolute;
 			top: 0;
 			color: #e5474b;
-			font-size: 1.75em;
+			font-size: 1.6em;
 			text-transform: none;
 			font-weight: normal;
 			padding: 0;
@@ -3365,7 +3365,7 @@
 		color: #f2a3a5;
 		padding: 1em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("/Users/benjiharris/Desktop/HTML/YATCC Website/images/langbar2.jpg");
+		background-image: url("images/langbar2.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
