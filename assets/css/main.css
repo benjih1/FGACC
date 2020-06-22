@@ -2561,7 +2561,7 @@
 	}
 
 	header p {
-		color: #717171;
+		color:#1c1c1c;
 	}
 
 /* Table */
@@ -3126,11 +3126,11 @@
 				}
 
 			}
-
+			
 		#header .logo {
 			font-family: 'Pacifico', cursive;
 			display: inline-block;
-			height: inherit;
+			height: 80px;
 			left: 0;
 			line-height: inherit;
 			margin: 0;
@@ -3600,7 +3600,7 @@
 		}
 
 	#two {
-		padding: 6em 0 4em 0;
+		padding: 4em 0 4em 0;
 		background: #f3f3f3;
 		background: -moz-linear-gradient(left, #f3f3f3 0%, #f3f3f3 50%, #f7f7f7 0%, #f7f7f7 100%);
 		background: -webkit-linear-gradient(left, #f3f3f3 0%, #f3f3f3 50%, #f7f7f7 0%, #f7f7f7 100%);
@@ -3956,3 +3956,6 @@
 			}
 
 		}
+
+	
+	
