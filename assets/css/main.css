@@ -2364,11 +2364,11 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 90%;
+			width: 100%;
 		}
 
 			.image.fit img {
-				width: 90%;
+				width: 100%;
 			}
 
 		.image.main {
@@ -3378,6 +3378,7 @@
 		position: relative;
 		z-index: 9999;
 	}
+
 
 		#banner input, #banner select, #banner textarea {
 			color: #ffffff;
