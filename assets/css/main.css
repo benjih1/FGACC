@@ -2566,7 +2566,7 @@
 	}
 
 	header p {
-		color:#1c1c1c;
+		color:#1b1c1c;
 	}
 
 /* Table */
@@ -3279,7 +3279,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #1c1c1c;
+		background: #1b1c1c;
 		color: #fff;
 		height: 100%;
 		max-width: 80%;
